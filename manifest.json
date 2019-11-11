@@ -10,3 +10,8 @@
     },
     "permissions": ["activeTab"]
 }
+$ git init
+git remote add origin https://github.com/<SciSensei>/<Chrome-Extension>.git
+$ git add <file_path>
+# commit all files
+$ git add .
